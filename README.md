@@ -21,6 +21,7 @@ Script_models.R
 
 - Figure 2A, genetic correlations between pain conditions, psychopathologies, and neuroticism scales
 - GenomicSEM R code for (figure and table numbers provided where applicable): 
+
 a. the best-fit pain-psychopathology model (pain_psych_model), which includes residual covariances:
 		CIGS ~~ chDs + chPh
 		stmP ~~ SCZ + AN
